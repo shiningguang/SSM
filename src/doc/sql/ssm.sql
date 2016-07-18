@@ -13,6 +13,14 @@ File Encoding         : 65001
 Date: 2016-07-15 15:18:19
 */
 
+CREATE DATABASE ssm
+CHARACTER SET 'utf8'
+COLLATE 'utf8_general_ci';
+
+
+
+
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
